@@ -31,7 +31,7 @@ JSON Web Tokens (JWT): For secure and stateless authentication.
 
 Google Gemini API: Integrated for AI-driven content generation.
 
-Database: MongoDB 
+Database: MongoDB
 
 📦 Installation & Setup
 Follow these steps to get the project up and running on your local machine.
@@ -99,3 +99,4 @@ Register a new user account or log in if you already have one.
 
 Explore the blog posts, create your own, like posts, add comments, and utilize the search functionality.
 
+Yash Goyal - Your GitHub Profile
